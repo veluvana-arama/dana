@@ -1,0 +1,72 @@
+
+
+
+#features {
+  background-color: #F8F9F9;
+}
+
+
+#true-love {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+#content {
+  padding: 50px;
+  text-align: center;
+}
+
+
+
+.big-heading {
+  font-family: verdana;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+.feature-box {
+  padding: 5%;
+}
+
+.container-fluid{
+  padding: 2% 10%;
+  text-align: center;
+}
+.container-fluid-2 {
+  background: #F8F9F9;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.cgrammar {
+  background: #F8F9F9;
+}
+.icon {
+  color: #ef8172;
+  padding-bottom: 1rem;
+
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+.feature-title {
+    font-size: 1.5rem;
+      text-align: center;
+}
+.footer {
+  padding: 1rem;
+}
+
+.sp {
+  color: grey;
+}
+
+span {
+   color: lightgrey;
+}
+.social-icon {
+  margin: 20px
+}

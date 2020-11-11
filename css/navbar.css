@@ -1,0 +1,44 @@
+
+
+
+.title-image {
+  width: 100%;
+  height: auto;
+
+  padding-bottom: 1rem;
+}
+p {
+  color: #aaa;
+  text-align: center;
+}
+
+
+#needs  {
+  padding: 1rem;
+  background-color: #dedede;
+}
+
+h1 {
+font-family: Roboto;
+text-align: center;
+}
+
+
+.section-heading {
+  text-align: center;
+}
+.ft {
+  margin-top: 80px;
+  padding-left: 2rem;
+  text-align: left;
+  color: #aaa;
+}
+
+a,
+a:link,
+a:active {
+  color: black;
+  text-decoration: none;
+  border-radius: 2px;
+  padding: 1px 3px;
+}
