@@ -19,6 +19,33 @@
   text-align: center;
 }
 
+progress{
+  /* Reset the default appearance */
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+
+  /* Get rid of default border in Firefox. */
+  border: none;
+
+  /* Dimensions */
+  width: 250px;
+  height: 20px;
+}
+
+.progress-10 {
+  color: green;
+}
+
+.progress-10::-webkit-progress-value {
+  background-color:green;
+}
+
+.progress-10::-moz-progress-bar {
+  background-color:green;
+}
+
+
 .testimonial-image {
   width: 50%;
   margin: 20px;
