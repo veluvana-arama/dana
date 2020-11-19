@@ -34,15 +34,15 @@ progress{
 }
 
 .progress-10 {
-  color: green;
+  color: lightgreen;
 }
 
 .progress-10::-webkit-progress-value {
-  background-color:green;
+  background-color:lightgreen;
 }
 
 .progress-10::-moz-progress-bar {
-  background-color:green;
+  background-color:lightgreen;
 }
 
 
