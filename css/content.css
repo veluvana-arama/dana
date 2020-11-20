@@ -33,6 +33,22 @@ progress{
   height: 20px;
 }
 
+.progress-dana {
+  color: lightgreen;
+  width: 31%;
+  height: 20px;
+}
+.progress-dana {
+  color: lightgreen;
+}
+.progress-dana::-webkit-progress-value {
+  background-color:lightgreen;
+}
+
+.progress-dana::-moz-progress-bar {
+  background-color:lightgreen;
+}
+
 .progress-10 {
   color: lightgreen;
 }
